@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Junseo]!
 
-🎓 **AI Enthusiast | Undergraduate Student | Aspiring Researcher**
+🎓 **AI Enthusiast | Undergraduate Student in Konkuk Glocal | Aspiring Researcher**
 
 ---
 
@@ -22,7 +22,7 @@
 
 | **Baekjoon Tier** | **GitHub Stats** |
 |:------------------:|:----------------:|
-| ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) |
+| ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=plot1123) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo1026&show_icons=true&theme=radical) |
 
 ---
 
