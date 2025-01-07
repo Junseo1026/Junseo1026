@@ -18,6 +18,12 @@
 
 ---
 
+## 🏆 Competitive Programming
+- **Baekjoon Tier**:  
+![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id)
+
+---
+
 ## 📄 My CV
 [📂 View My CV](https://your-link-to-cv.com)
 
