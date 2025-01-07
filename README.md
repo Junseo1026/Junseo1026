@@ -28,12 +28,10 @@
 
 ## 📄 My CV
 [📂 View My CV](https://your-link-to-cv.com)
-
 ---
-
-## 🌐 Connect with Me
-[![Gmail Badge](https://img.shields.io/badge/-Email-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sonjunseo86@gmail.com)
-[![School Email Badge](https://img.shields.io/badge/-School%20Email-Microsoft%20Outlook-0056D2?style=flat-square&logo=Microsoft-Outlook&logoColor=white)](mailto:plot1124@kku.ac.kr)
+## 🌐 Connect
+- [![Gmail Badge]](mailto:sonjunseo86@gmail.com)  
+- [![KKU Badge]](mailto:plot1124@kku.ac.kr)
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
 
 ---
