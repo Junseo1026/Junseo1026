@@ -1,19 +1,39 @@
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseo1026&count_bg=%233C8429&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
--->
-## Hi there 👋 <br>
-![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo1026&show_icons=true) <br>
+# 👋 Hello, I'm [Your Name]!
 
+🎓 **AI Enthusiast | Undergraduate Student | Aspiring Researcher**
 
+---
 
-Here are some ideas to get you started: 
- 
-- 🔭 I’m currently working on ...   
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-안녕하세요
+## 🌟 About Me
+- 📚 Currently pursuing a Bachelor's degree in **Artificial Intelligence**.
+- 🎓 Aspiring to pursue a Master's degree in AI/ML to deepen my expertise.
+- 🧠 Passionate about building intelligent systems and solving real-world problems with AI.
+
+---
+
+## 🛠️ Skills & Interests
+- **Languages:** Python, R, C++  
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn  
+- **Areas of Interest:** Deep Learning, Computer Vision, Natural Language Processing  
+
+---
+
+## 📄 My CV
+[📂 View My CV](https://your-link-to-cv.com)
+
+---
+
+## 🌐 Connect with Me
+- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## ✨ Fun Fact
+AI won't replace you... but someone using AI might! 🤖
