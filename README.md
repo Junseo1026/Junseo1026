@@ -32,9 +32,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📫 Personal Email: [![Gmail Badge](https://img.shields.io/badge/-sonjunseo86@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sonjunseo86@gmail.com)  
+- 📫 School Email: [![KKU Badge](https://img.shields.io/badge/-plot1124@kku.ac.kr-0056D2?style=flat-square&logo=Microsoft-Outlook&logoColor=white)](mailto:plot1124@kku.ac.kr)
+<!-- - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
 
 ---
 
