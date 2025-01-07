@@ -22,7 +22,7 @@
 
 | **Baekjoon Tier** | **GitHub Stats** |
 |:------------------:|:----------------:|
-| ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=plot1123) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo1026&show_icons=true&theme=radical) |
+| ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=plot1124@kku.ac.kr) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo1026&show_icons=true&theme=radical) |
 
 ---
 
