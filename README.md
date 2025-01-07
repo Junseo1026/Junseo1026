@@ -12,9 +12,25 @@
 ---
 
 ## 🛠️ Skills & Interests
-- **Languages:** Python, R, C++  
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn  
-- **Areas of Interest:** Deep Learning, Computer Vision, Natural Language Processing  
+
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![H2](https://img.shields.io/badge/-H2-003366?style=flat-square&logo=H2&logoColor=white)
+
+### **Frameworks**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=Gitea&logoColor=white)
 
 ---
 
@@ -28,9 +44,12 @@
 
 ## 📄 My CV
 [📂 View My CV](https://your-link-to-cv.com)
+
 ---
+
 ## 🌐 Connect
-[![Gmail Badge](https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sonjunseo86@gmail.com)  [![Gmail Badge](https://img.shields.io/badge/-KKU-0056D2?style=flat-square&logo=Microsoft-Outlook&logoColor=white)](mailto:plot1124@kku.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sonjunseo86@gmail.com)  
+[![KKU Badge](https://img.shields.io/badge/-KKU-0056D2?style=flat-square&logo=Microsoft-Outlook&logoColor=white)](mailto:plot1124@kku.ac.kr)
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
 
 ---
