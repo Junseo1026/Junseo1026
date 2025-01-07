@@ -18,9 +18,11 @@
 
 ---
 
-## 🏆 Competitive Programming
-- **Baekjoon Tier**:  
-![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id)
+## 📊 My Stats
+
+| **Baekjoon Tier** | **GitHub Stats** |
+|:------------------:|:----------------:|
+| ![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) |
 
 ---
 
@@ -33,11 +35,6 @@
 - 📫 Email: [your-email@example.com](mailto:your-email@example.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
