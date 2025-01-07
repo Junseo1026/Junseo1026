@@ -1,15 +1,15 @@
-# 👋 Hello, I'm [Junseo]!
+# 👋 Hello, I'm JunseoSon!
 
 🎓 **AI Enthusiast | Undergraduate Student in Konkuk Glocal | Aspiring Researcher**
 
----
+--
 
 ## 🌟 About Me
 - 📚 Currently pursuing a Bachelor's degree in **Artificial Intelligence**.
 - 🎓 Aspiring to pursue a Master's degree in AI/ML to deepen my expertise.
 - 🧠 Passionate about building intelligent systems and solving real-world problems with AI.
 
----
+--
 
 ## 🛠️ Skills & Interests
 
