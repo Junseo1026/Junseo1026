@@ -43,7 +43,7 @@
 ---
 
 ## 📄 Curriculum Vitae
-[📂 View My CV](https://github.com/Junseo1026/Junseo1026/blob/main/cv.pdf)
+[📂 View My CV](https://github.com/Junseo1026/Junseo1026/blob/main/CV_2025_1.pdf)
 
 ---
 
