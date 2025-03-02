@@ -54,4 +54,4 @@
 ---
 
 ## ✨ Fun Fact
-AI won't replace you... but someone using AI might! 🤖
+AI won't replace you... but someone using AI might! 🤖 
