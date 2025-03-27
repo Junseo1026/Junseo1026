@@ -38,7 +38,7 @@
 
 | **Baekjoon Tier** | **GitHub Stats** |
 |:------------------:|:----------------:|
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=plot1123)](https://solved.ac/plot1123/) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo1026&show_icons=true&theme=radical) |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=plot1124)](https://solved.ac/plot1124/) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo1026&show_icons=true&theme=radical) |
 
 ---
 
